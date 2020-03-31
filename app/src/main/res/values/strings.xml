@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">VentilatorApp</string>
+    <string name="title_activity_tabs">Tabs</string>
+    <string name="tab_text_1">Settings</string>
+    <string name="tab_text_2">Tutorial</string>
+    <string name="tutorialLink1">This is first tutorial link</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
